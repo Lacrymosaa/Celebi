@@ -35,7 +35,3 @@ arquivos_exatos = ['save1.dat', 'profile.sav', 'auto_save.bin']
 ```
 
 After making these changes, recompile the script using PyInstaller.
-
-```
-
-```
